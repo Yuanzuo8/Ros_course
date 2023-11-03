@@ -1,0 +1,8 @@
+uint8[] binary_oldest_image
+string username
+string age
+string gender
+string favor
+---
+string result
+uint8[] faces

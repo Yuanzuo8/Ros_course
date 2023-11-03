@@ -1,0 +1,8 @@
+
+---
+uint8[] contours
+string result
+float32 ratio
+uint32 cX
+uint32 cY
+float32 mean_distance

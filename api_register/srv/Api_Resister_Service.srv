@@ -1,0 +1,7 @@
+string username
+string hobby
+---
+string result
+string age
+string gender
+uint8[] faces
